@@ -9,3 +9,6 @@
 3)After the body of the 'for' loop executes, the flow of control jumps back up to the increment statement. This statement allows you to update any loop control variables. This statement can be left blank, as long as a semicolon appears after the condition.
 
 4)The condition is now evaluated again. If it is true, the loop executes and the process repeats itself (body of loop, then increment step, and then again condition). After the condition becomes false, the 'for' loop terminates.
+
+#Conclusion:
+        From this program we learnt how to use different for loops to print different kinds of pattern on the output screen.
